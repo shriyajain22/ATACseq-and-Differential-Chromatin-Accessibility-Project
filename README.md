@@ -94,6 +94,6 @@ ATACseq-and-Differential-Chromatin-Accessibility-Project/
 ## Citation
 
 This workflow was implemented using datasets and analysis concepts from the following publication:
-De Sá Fernandes, C., Novoszel, P., Gastaldi, T., Krauß, D., Lang, M., Rica, R., Kutschat, A. P., Holcmann, M., Ellmeier, W., Seruggia, D., Strobl, H., & Sibilia, M. (2024). The histone deacetylase HDAC1 controls dendritic cell development and anti-tumor immunity. Cell reports, 43(6), 114308. https://doi.org/10.1016/j.celrep.2024.114308
+De Sá Fernandes, C., Novoszel, P., Gastaldi, T., Krauß, D., Lang, M., Rica, R., Kutschat, A. P., Holcmann, M., Ellmeier, W., Seruggia, D., Strobl, H., & Sibilia, M. (2024). The histone deacetylase HDAC1 controls dendritic cell development and anti-tumor immunity. *Cell reports*, *43*(6), 114308. https://doi.org/10.1016/j.celrep.2024.114308
 
 Note: *This project was developed as part of the Genomic Data Analysis (BF528) coursework at Boston University.* 
